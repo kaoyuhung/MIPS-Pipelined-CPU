@@ -3,7 +3,7 @@ This GitHub repository contains an implementation of a MIPS pipelined CPU using 
 The CPU design follows the classic MIPS architecture and leverages pipelining techniques to achieve improved performance by allowing multiple instructions to be executed simultaneously.
 
 Features:
-1. MIPS Architecture: The CPU is designed based on the widely used MIPS (Microprocessor without Interlocked Pipeline Stages) architecture. It supports a subset of MIPS instructions, including arithmetic, logical, memory access, and control flow instructions.
+1. MIPS Architecture: The CPU is designed based on the widely used MIPS architecture. It supports a subset of MIPS instructions, including arithmetic, logical, memory access, and control flow instructions.
 
 2. Pipelining: The CPU incorporates a pipelining technique to enhance performance by dividing the instruction execution process into multiple stages. Pipelining allows simultaneous execution of multiple instructions, resulting in improved throughput and reduced latency.
 
