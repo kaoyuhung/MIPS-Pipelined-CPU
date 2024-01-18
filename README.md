@@ -1,6 +1,6 @@
 # mips-pipelined-cpu
-This GitHub repository contains an implementation of a MIPS pipelined CPU using the Verilog hardware description language. 
-The CPU design follows the classic MIPS architecture and leverages pipelining techniques to achieve improved performance by allowing multiple instructions to be executed simultaneously.
+This GitHub repository contains an implementation of a MIPS pipelined CPU using Verilog. 
+The CPU design follows the classic MIPS architecture and leverages pipelining techniques to achieve improved performance.
 
 Features:
 MIPS Architecture: The CPU is designed based on the widely used MIPS architecture. It supports a subset of MIPS instructions, including arithmetic, logical, memory access, and control flow instructions.
