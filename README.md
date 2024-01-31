@@ -1,4 +1,5 @@
-# mips-pipelined-cpu
+# Computer Organization Project
+## mips-pipelined-cpu
 * This GitHub repository contains an implementation of a MIPS pipelined CPU using Verilog. 
 * The CPU design follows the classic MIPS architecture and leverages pipelining techniques to achieve improved performance.
 
